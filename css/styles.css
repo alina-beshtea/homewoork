@@ -1,0 +1,66 @@
+h1{
+  color: black;
+  text-align: center;
+  font-style: italic;
+}
+p.intro{
+ font-family: cursive;
+}
+
+h2{
+  text-align: center;
+}
+
+.important{
+  color: red;
+}
+
+.special{
+  font-style: italic;
+  font-weight: bold;
+
+}
+
+.important{
+  color: red;
+  font-size: 80%;
+}
+
+.unimportant{
+  color: blue;
+  font-size: 80%
+}
+
+.clas intro{
+  font-style: italic;
+}
+
+.column{
+  wide 100px;
+  float right;
+}
+
+p.instructions{
+  font-family: cursive;
+}
+
+p.skills{
+  font-style: oblique;
+  font-size: 20px;
+}
+
+
+
+img{
+  border: 10px solid purple;
+  background-color: red;
+  margin: 12px;
+  width: 350px
+}
+
+.edc{
+  font-style: italic;
+}
+.end{
+  font-style: italic;
+}
