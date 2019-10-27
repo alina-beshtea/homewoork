@@ -14,6 +14,7 @@ _{on my application i used a few paragraphs, a link, and an image. i highlighted
 * _img_
 * _booststrap_
 * _README_
+*_GitHub_
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
