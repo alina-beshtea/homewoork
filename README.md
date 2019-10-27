@@ -1,34 +1,33 @@
-# _{Application Name}_
+# _Alina Beshtea_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _{My Profile}, {10/18/19 and 10/26/19}_
 
-#### By _**{List of contributors}**_
+#### By _**Alina Beshtea**_
 
 ## Description
+_{on my application i used a few paragraphs, a link, and an image. i highlighted a
+ list, i also changed the font and float on a few paragraphs.}
+## Setup/Installation Requirements.
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
-
-## Setup/Installation Requirements
-
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _HTML_
+* _CSS_
+* _img_
+* _booststrap_
+* _README_
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_{Webside link is not working. }_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{Pleas contact me on my email.}_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_{  HTML and CSS..}_
 
 ### License
 

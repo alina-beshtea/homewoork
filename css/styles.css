@@ -28,7 +28,7 @@ h2{
 
 .unimportant{
   color: blue;
-  font-size: 80%
+  font-size: 70%
 }
 
 .clas intro{
@@ -36,7 +36,6 @@ h2{
 }
 
 .column{
-  wide 100px;
   float right;
 }
 
@@ -49,8 +48,6 @@ p.skills{
   font-size: 20px;
 }
 
-
-
 img{
   border: 10px solid purple;
   background-color: red;
@@ -61,6 +58,24 @@ img{
 .edc{
   font-style: italic;
 }
+
 .end{
   font-style: italic;
+}
+
+.sidebar{
+  background-color: pink;
+  width: 30%;
+}
+
+p1{
+  color: red;
+  font-style: italic;
+  font-size: 80%;
+  float: right;
+}
+
+#end{
+  font-style: oblique;
+  font-size: 150%;
 }
