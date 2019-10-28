@@ -20,7 +20,8 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-_{Webside link is not working. }_
+_There are no known bugs at this time_
+Please use this link to view my Portfolio: https://alina-beshtea.github.io/homewoork/
 
 ## Support and contact details
 
